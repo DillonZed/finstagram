@@ -1,0 +1,24 @@
+header {
+    background-color: #244751;
+    color: #E8FDFF;
+}
+
+body {
+    background-color: whitesmoke;
+    font-family: 'Mohave', sans-serif;
+}
+
+main {
+    background-color: white;
+    padding: 16px;
+}
+
+.finstagram-post {
+    margin-bottom: 48px;
+
+}
+
+a.photo:hover{
+    padding: 10px;
+    transition: padding 0.5s;
+}
